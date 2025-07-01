@@ -1,8 +1,8 @@
 # 🖥️ Basic Computer Workshop Curriculum for 1st Year CSE Students
 
-### by Md. Nasim Mahamud Jabed (CSE_3_II)  
-**Chief Innovation Officer**  
-**BAIUST Computer Club**
+  ### by, <br>Md. Nasim Mahamud Jabed (CSE_3_II)  
+  **Chief Innovation Officer**  
+  **BAIUST Computer Club**
 
 ---
 
